@@ -1,13 +1,13 @@
-# 🏥 Advanced Medical RAG System
+# Advanced Medical RAG System
 
-A production-grade RAG (Retrieval-Augmented Generation) system for medical professionals and students. Combines real PubMed research with patient data management. **100% local - no API keys needed!**
+A RAG (Retrieval-Augmented Generation) system for medical professionals and students. Combines real PubMed research with patient data management. **100% local - no API keys needed!**
 
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ---
 
-## 📊 System Architecture & Flow
+## System Architecture & Flow
 
 ```
 ┌─────────────────────────────────────────────────────────────────────┐
@@ -415,9 +415,6 @@ python3 -c "from rag_system import MedicalRAG; MedicalRAG().create_vectorstore()
 
 ---
 
-## 📝 License
-
-MIT License - Free for research and commercial use
 
 ---
 
@@ -440,15 +437,4 @@ Contributions welcome! Areas for improvement:
 - [RAG Paper](https://arxiv.org/abs/2005.11401)
 - [MMR Algorithm](https://www.cs.cmu.edu/~jgc/publication/The_Use_MMR_Diversity_Based_LTMIR_1998.pdf)
 
----
 
-## 📧 Support
-
-For issues or questions:
-1. Check the Troubleshooting section
-2. Review existing issues on GitHub
-3. Create a new issue with details
-
----
-
-**Built with ❤️ for medical professionals and students**
